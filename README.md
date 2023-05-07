@@ -13,3 +13,14 @@ De plus, créez une API RESTful en utilisant Java Spring Boot avec les élément
     - Tous les étudiants de la liste seront retournés en cas d'absence de valeur de filtres
     - Paginé
   - Tests unitaires (facultatif si vous avez le temps)
+
+
+- Test de L'API RESTful:
+  - AUthentification:
+![login](https://user-images.githubusercontent.com/53410012/236678234-9f9a175e-c6d6-48e9-ae54-03f8541265e6.jpg)
+
+  - List etudiants:
+ ![etudiants](https://user-images.githubusercontent.com/53410012/236678251-f596838f-b75f-4ebf-ad3d-54f2e858492f.jpg)
+
+
+
